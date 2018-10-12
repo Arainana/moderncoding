@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.navi {
+  width: 180px;
+  height: 180px;
+  margin: 30px 20px 4px 4px;
+  background-color: orange;
+  transition: 1s;
+}
+.navi:hover {
+  opacity: 0.9;
+  border-radius: 40px;
+}
